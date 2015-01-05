@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Application</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="Main_Button">Main_ button</string>
+    <string name="myCheckBox">CheckBox</string>
+    <string name="MyButton">Main_Button</string>
+    <string name="EditText">yoyo</string>
+    <string name="EditText1">EditText</string>
+
+</resources>
